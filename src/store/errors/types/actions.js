@@ -1,0 +1,1 @@
+export const SET_ERROR_TEXT = "SET_ERROR_TEXT";

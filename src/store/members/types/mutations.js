@@ -1,0 +1,8 @@
+export const SET_MEMBERS_COUNT = "SET_MEMBERS_COUNT";
+export const SET_MEMBERS_ARR = "SET_MEMBERS_ARR";
+export const SET_NEW_MEMBER_ID = "SET_NEW_MEMBER_ID";
+export const SET_LOADER1 = "SET_LOADER1";
+export const SET_UNIQU_EMAIL = "SET_UNIQU_EMAIL";
+export const SET_SOCIAL_VIEW = "SET_SOCIAL_VIEW";
+export const SET_CONFIG_TW = "SET_CONFIG_TW";
+export const SET_NEXT_LINK = "SET_NEXT_LINK";
