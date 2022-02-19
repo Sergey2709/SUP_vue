@@ -24,7 +24,7 @@ Vue.use(BootstrapVue);
 Vue.use(IconsPlugin);
 Vue.use(VueGoogleMaps, {
   load: {
-    key: "AIzaSyB4YPwVO01xuv7xSAkQ6HWjbnDY1f9HqNM",
+    key: "YOUR_API_KEY",
     libraries: "places",
   },
 });
